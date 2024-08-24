@@ -1,2 +1,2 @@
 # Economic Policy Unicertainty Index for Kazakhstan
-Economic Uncertainty Index for Kazakhstan
+This project aims to analyze news articles in Kazakhstan to construct an Economic Policy Uncertainty (EPU) index for the country. The approach follows the methodology established by Baker et al. (2016), which has been applied to various countries. By examining the frequency of specific keywords in the news, the project seeks to quantify economic policy uncertainty in Kazakhstan over time.
