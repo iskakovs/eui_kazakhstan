@@ -1,2 +1,2 @@
-# eui_kazakhstan
+# Economic Unicertainty Index for Kazakhstan
 Economic Uncertainty Index for Kazakhstan
